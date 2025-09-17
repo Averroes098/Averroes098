@@ -24,13 +24,17 @@ src="https://img.shields.io/twitter/follow/____Arthurzzzz____?logo=twitter&style
 src="https://img.shields.io/twitch/status/korekk_aapiii?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=ffffff&label=TWITCH+STATUS" /></a>
 ### Badges
 
-<b>My GitHub Stats</b>
+## ⚡️ Stats
 
-<a href="http://www.github.com/Averroes098"><img src="https://github-readme-stats.vercel.app/api?username=Averroes098&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Averroes098's GitHub stats" /></a>
+<br>
 
-<a href="http://www.github.com/Averroes098"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Averroes098&stroke=ffffff&background=ffffff&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+</div>
 
-<a href="https://github.com/Averroes098" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Averroes098&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<hr>
 
 ### Support Me
 
