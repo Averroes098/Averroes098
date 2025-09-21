@@ -1,10 +1,5 @@
 ![Header](./github-header-banner.png)
 
-![Handshake GIF](https://github.com/user-attachments/assets/eb63af8f-7207-404d-85fa-3ed471ff9e1b)
-
-
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Nafi Averroes
 ===============================================================================================================================================
 
@@ -43,7 +38,7 @@ src="https://img.shields.io/twitch/status/korekk_aapiii?logo=twitchsx&style=for-
 
 <hr>
 
-###
+### Pac-Man
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
@@ -59,6 +54,8 @@ src="https://img.shields.io/twitch/status/korekk_aapiii?logo=twitchsx&style=for-
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Muhammad Nafi Averroes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/Arthurzzzz"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+![Handshake GIF](https://github.com/user-attachments/assets/eb63af8f-7207-404d-85fa-3ed471ff9e1b)
 
 </ul>
 ProfileMe.dev | Create an amazing GitHub profile in minutes
