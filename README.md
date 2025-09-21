@@ -1,6 +1,7 @@
 ![Header](./github-header-banner.png)
 
-![Uploading Handshake GIF.gif…]()
+![Handshake GIF](https://github.com/user-attachments/assets/eb63af8f-7207-404d-85fa-3ed471ff9e1b)
+
 
 
 
