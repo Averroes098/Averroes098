@@ -47,7 +47,7 @@ src="https://img.shields.io/twitch/status/korekk_aapiii?logo=twitchsx&style=for-
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/Arthurzzzz"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="teer.id/nafi-averroes-xdqtm"><img src="https://new.trakteer.id/" width"150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://trakteer.id/nafi-averroes-xdqtm/recommend"><img src="https://new.trakteer.id/" width"150"/></a></li>
                                                             
 ![Handshake GIF](https://github.com/user-attachments/assets/eb63af8f-7207-404d-85fa-3ed471ff9e1b)
 
