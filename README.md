@@ -31,9 +31,9 @@ src="https://img.shields.io/twitch/status/korekk_aapiii?logo=twitchsx&style=for-
 <br>
 
 <div align=center>
-  ![Averroes098's Stats](https://github-readme-stats.vercel.app/api?username=Averroes098&theme=prussian&show_icons=true&hide_border=true&count_private=true)
-  ![Averroes098's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Averroes098&theme=prussian&hide_border=true)
-  ![Averroes098's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Averroes098&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+  <img width="467" height="195" alt="image" src="https://github.com/user-attachments/assets/4bf683bb-c710-4c30-a518-530c268cc71d" />
+  <img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/c3538155-26c8-49c2-b545-548f338b5f09" />
+  <img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/1e639d6d-569c-433e-a688-89ef38277e1b" />
 </div>
 
 <hr>
