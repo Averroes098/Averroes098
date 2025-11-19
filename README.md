@@ -31,9 +31,9 @@ src="https://img.shields.io/twitch/status/korekk_aapiii?logo=twitchsx&style=for-
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Averroes098&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Averroes098's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Averroes098&theme=transparent&count_private=true&border_radius=10&locale=en" alt="\Averroes098's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Averroes098&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Averroes098's Most Used Languages" />
+  ![Averroes098's Stats](https://github-readme-stats.vercel.app/api?username=Averroes098&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+  ![Averroes098's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Averroes098&theme=prussian&hide_border=true)
+  ![Averroes098's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Averroes098&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 <hr>
